@@ -43,16 +43,13 @@ Analiz sırasında elde edilen veriler toplanmakta ve program sonlandığında *
 ---
 
 ## ⚙️ Kurulum
-
-Gerekli kütüphaneleri yüklemek için:
-
-```bash
 pip install opencv-python deepface matplotlib
+
 
 ---
 ## 🇬🇧 English README
 
-```markdown
+
 # Real-Time Multi-Face Analysis and Graphical Reporting
 
 This project is a **computer vision and deep learning application** that performs
@@ -94,7 +91,7 @@ Collected analysis results are stored during runtime and presented as
 - Matplotlib
 - Threading
 
----
+
 
 ## ⚙️ Installation
 
