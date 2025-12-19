@@ -43,7 +43,7 @@ Analiz sırasında elde edilen veriler toplanmakta ve program sonlandığında *
 ---
 
 ## ⚙️ Kurulum
-pip install opencv-python deepface matplotlib
+`pip install opencv-python deepface matplotlib`
 
 
 ---
@@ -96,8 +96,6 @@ Collected analysis results are stored during runtime and presented as
 ## ⚙️ Installation
 
 Install required libraries:
-
-```bash
-pip install opencv-python deepface matplotlib
+`pip install opencv-python deepface matplotlib`
 
 
